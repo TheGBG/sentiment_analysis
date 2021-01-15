@@ -14,9 +14,9 @@ Correo electrónico: michelle.ferrin@cunef.edu
 
 El objetivo del trabajo es emplear técnicas de Machine Learning, text mining y procesamiento de lenguaje natural
 con el fin de implementar modelos que permitan analizar y predecir los sentimientos de consumidores, basándose
-en textos de reseñas. Se utilizan reseñas de películas del imbd https://www.imdb.com/. El dataset empleado 
-puede encontrarse aquí https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews. Se emplean los modelos
-habtuales de Machine Learning, y redes neuronales básicas. El programa que se utiliza es Python, y algunas de las 
+en textos de reseñas. Se utilizan reseñas de películas del imbd. El dataset empleado 
+puede encontrarse en el siguiente enlace: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews. 
+Se emplean los modelos habituales de Machine Learning, y redes neuronales básicas. El programa que se utiliza es Python, y algunas de las 
 librerías que se emplean son pandas, scikit-learn, nltk, re, keras, tensorflow y shap.
 
 Información sobre las carpetas y su contenido:
